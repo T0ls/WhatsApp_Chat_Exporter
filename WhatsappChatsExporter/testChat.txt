@@ -1,0 +1,90 @@
+20/05/23, 09:00 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+20/05/23, 09:00 - Mike: Created group "Algorithms implies Pain"
+20/05/23, 09:01 - Mike: Made this so we can share notes without spamming the main group.
+20/05/23, 09:05 - Alex Uni: <Media omitted>
+20/05/23, 09:05 - Alex Uni: These are the slides from yesterday, if anyone needs them.
+20/05/23, 09:10 - DrunkDev 🍺: You are a savior bro
+20/05/23, 09:11 - DrunkDev 🍺: I understood absolutely nothing in that lecture.
+20/05/23, 09:12 - Matt: Did you even wake up for it?
+20/05/23, 09:15 - DrunkDev 🍺: Physically? Yes. Mentally? I was still in bed.
+20/05/23, 10:30 - Sam The Genius: <Media omitted>
+20/05/23, 10:30 - Sam The Genius: Guys, I think the professor made a mistake in the recursive function on slide 42.
+20/05/23, 10:32 - Mike: Sam, please.
+20/05/23, 10:32 - Mike: We are struggling to declare a variable and you are debugging the prof's slides.
+20/05/23, 10:33 - DrunkDev 🍺: 🤓☝️ "Actually..."
+20/05/23, 10:33 - Sam The Genius: LOL just saying. It causes a stack overflow.
+20/05/23, 12:45 - Alex Uni: Guys, anyone skipping Math tomorrow?
+20/05/23, 12:50 - Matt: I am. I need to catch up on the Architecture project.
+20/05/23, 12:51 - Mike: I'm coming. Need the attendance.
+20/05/23, 13:00 - DrunkDev 🍺: I'll come just for the emotional support. And for the vending machine coffee.
+21/05/23, 08:15 - Mike: Train is delayed by 20 mins. Classic.
+21/05/23, 08:16 - Alex Uni: Mine is cancelled. Guess I'm not coming.
+21/05/23, 08:17 - DrunkDev 🍺: Thank you public transport, very cool.
+21/05/23, 08:20 - Sam The Genius: I'm already in the front row. Saved seats for you guys.
+21/05/23, 08:22 - Mike: <Media omitted>
+21/05/23, 08:22 - Mike: Look at this crowd on the platform. It's like a zombie apocalypse.
+21/05/23, 09:45 - Matt: How is the lecture going?
+21/05/23, 09:46 - DrunkDev 🍺: <Media omitted>
+21/05/23, 09:46 - DrunkDev 🍺: He is talking about Fourier series. I want to die.
+21/05/23, 09:47 - Mike: It's actually not that bad if you ignore the math part.
+21/05/23, 09:48 - DrunkDev 🍺: So... the whole thing?
+21/05/23, 12:00 - Mike: Lunch?
+21/05/23, 12:01 - Sam The Genius: Sushi?
+21/05/23, 12:02 - Alex Uni: Bro I'm broke.
+21/05/23, 12:02 - DrunkDev 🍺: Kebab it is.
+21/05/23, 12:03 - Mike: The usual place?
+21/05/23, 12:05 - Matt: <Media omitted>
+21/05/23, 12:05 - Matt: Coming.
+23/05/23, 15:00 - Mike: POLL:
+Study session this Saturday?
+OPTION: Library (3 votes)
+OPTION: Discord (1 vote)
+OPTION: I choose death (2 votes)
+
+23/05/23, 15:10 - Sam The Genius: We need to finish the group project for Web Dev.
+23/05/23, 15:12 - DrunkDev 🍺: Can we do it remotely? I don't want to wear pants on a Saturday.
+23/05/23, 15:15 - Mike: No, we focus better in person. Come to the uni library.
+23/05/23, 15:16 - Alex Uni: Fine. But we order pizza.
+24/05/23, 09:00 - Matt: Results for the Java midterm are out.
+24/05/23, 09:01 - Mike: <Media omitted>
+24/05/23, 09:01 - Mike: Panic mode ON.
+24/05/23, 09:05 - DrunkDev 🍺: 18. Let's goooooo! A pass is a pass.
+24/05/23, 09:06 - Alex Uni: 17. Are you kidding me?
+24/05/23, 09:07 - Alex Uni: I hate this place.
+24/05/23, 09:08 - Mike: Sam? Let me guess...
+24/05/23, 09:10 - Sam The Genius: 30L.
+24/05/23, 09:11 - DrunkDev 🍺: I hate you so much.
+24/05/23, 09:11 - Mike: We are not friends anymore.
+24/05/23, 09:12 - Matt: Congrats nerd.
+24/05/23, 09:15 - Sam The Genius: Thanks guys lol. It was easy though, just basic inheritance.
+24/05/23, 09:16 - Alex Uni: "Basic" he says. I forgot how to instantiate an object halfway through.
+25/05/23, 18:30 - DrunkDev 🍺: <Media omitted>
+25/05/23, 18:30 - DrunkDev 🍺: Look at this bug. Why is the text upside down??
+25/05/23, 18:45 - Sam The Genius: You probably messed up the CSS transform property.
+25/05/23, 18:50 - DrunkDev 🍺: Fixed it. I'm a genius. Apple should hire me.
+25/05/23, 18:51 - Mike: You literally just copy-pasted from StackOverflow, didn't you?
+25/05/23, 18:52 - DrunkDev 🍺: A programmer's best skill.
+28/05/23, 10:00 - Mike: Guys, exam registration closes tonight. Don't forget.
+28/05/23, 10:05 - Matt: Oh damn, thanks. I almost forgot to register for databases.
+28/05/23, 10:10 - Alex Uni: Is the oral exam mandatory?
+28/05/23, 10:12 - Sam The Genius: Only if you want more than 26 or if the prof hates you.
+28/05/23, 10:15 - DrunkDev 🍺: So it's mandatory for me. Great.
+30/05/23, 21:00 - Mike: <Media omitted>
+30/05/23, 21:00 - Mike: Stickers updated.
+30/05/23, 21:05 - DrunkDev 🍺: <Media omitted>
+30/05/23, 21:06 - Matt: Why do you have a sticker of Alex sleeping in the lab?
+30/05/23, 21:07 - Mike: Because it's iconic.
+30/05/23, 21:08 - Alex Uni: Delete that immediately.
+30/05/23, 21:10 - Sam The Genius: <Media omitted>
+30/05/23, 21:10 - Sam The Genius: Too late, saved it.
+01/06/23, 08:30 - Mike: Good luck to everyone taking the Physics exam today!
+01/06/23, 08:35 - Matt: We will need a miracle.
+01/06/23, 08:35 - DrunkDev 🍺: May the Force be with us.
+01/06/23, 11:30 - Mike: So?
+01/06/23, 11:35 - Alex Uni: Tragedy.
+01/06/23, 11:35 - DrunkDev 🍺: I left the last page blank.
+01/06/23, 11:36 - Matt: I invented new laws of physics today. Newton is rolling in his grave.
+01/06/23, 11:40 - Sam The Genius: It was tricky, but I think I got the thermodynamics part right.
+01/06/23, 11:41 - DrunkDev 🍺: Shut up Sam.
+01/06/23, 11:42 - Mike: Beer tonight?
+01/06/23, 11:43 - All: YES.
